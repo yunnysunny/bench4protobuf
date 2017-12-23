@@ -1,0 +1,21 @@
+{
+  "name": "bench4protobuf",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yunnysunny/bench4protobuf.git"
+  },
+  "author": "yunnysunny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunnysunny/bench4protobuf/issues"
+  },
+  "homepage": "https://github.com/yunnysunny/bench4protobuf",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "protobufjs": "^6.8.3"
+  }
+}

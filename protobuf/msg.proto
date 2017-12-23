@@ -1,0 +1,7 @@
+syntax = "proto3";
+package whyun;
+
+message Msg {
+    string question = 1;
+    uint32 answer = 2;
+}
